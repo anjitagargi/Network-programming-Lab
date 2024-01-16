@@ -1,0 +1,8 @@
+127.1.1
+127 - local machine
+ 10.a.c.b
+ 16-31.**
+ 192.168.*.*
+ resevered for pirvate subnets and free to use
+port number by hit and trail. just skipp the first 3 
+
