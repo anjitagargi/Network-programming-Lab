@@ -8,3 +8,5 @@ port number by hit and trail. just skipp the first 3
 
 Implement the client server socket programming
 
+encoding and decoding functions in sp
+import sys command 
